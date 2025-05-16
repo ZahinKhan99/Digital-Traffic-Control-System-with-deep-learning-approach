@@ -1,6 +1,6 @@
 <!-- @format -->
 
-Traffic overcrowded is the major challenge in modern or busy city areas, resulting to increase
+<!-- # Traffic overcrowded is the major challenge in modern or busy city areas, resulting to increase
 environmental pollution, delays, fuel consumption and increased travel time etc. To solve this
 problem, AI- guided traffic management solution have acquired significant attention. This
 project presents a digital traffic control system that integrates three main functionalities. These
@@ -12,4 +12,4 @@ video streams. The experimental results shows the effectiveness of the system, w
 proving optimal for classification tasks and yolov8 gives accurate object detection and vehicle
 counting. This findings suggest that, deep learning approach can control the traffic management
 and reduce traffic overcrowded specially in busy cities, Future work will be focus on increasing
-dataset variety and optimizing real tine performance.
+dataset variety and optimizing real tine performance. -->
